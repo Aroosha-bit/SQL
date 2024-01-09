@@ -1,4 +1,4 @@
-# SQL
+<h1 align="center">SQL Repository</h1>
 ![logo](https://github.com/Aroosha-bit/Aroosha-bit/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Aroosha Fatima</h1>
 
